@@ -3,8 +3,8 @@ public class Holamundo {
         String Nombre = "Estudiante";
         int a=5;
         int b=3;
-        int suma= a + b;
+        int mult= a * b;
         System.out.println(" Hola "+ Nombre );
-        System.out.println(" La suma de "+ a + " + "+ b +" es: "+ suma);
+        System.out.println(" La multiplicacion de "+ a + " * "+ b +" es: "+ mult);
     }
 }
